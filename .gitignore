@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment (Bunu yüklememeliyiz, herkes kendi kurar)
+venv/
+.env
+
+# VS Code settings
+.vscode/
+
+# YOLO modelleri (Çok büyük dosyalar git'e yüklenmez)
+*.pt
+*.onnx
