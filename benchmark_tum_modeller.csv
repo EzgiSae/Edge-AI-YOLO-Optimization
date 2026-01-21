@@ -1,0 +1,9 @@
+Model,Çözünürlük,Dosya,Süre (ms),FPS
+NCNN (320p),320x320,yolo11n_320_ncnn_model,47.66,20.98
+ONNX (320p),320x320,yolo11n_320.onnx,47.66,20.98
+INT8 (320p),320x320,yolo11n_320_int8.onnx,59.71,16.75
+PyTorch (320p),320x320,yolo11n.pt,70.8,14.12
+NCNN (640p),640x640,yolo11n_ncnn_model,134.08,7.46
+ONNX (640p),640x640,yolo11n.onnx,134.85,7.42
+INT8 (640p),640x640,yolo11n_int8.onnx,150.32,6.65
+PyTorch (640p),640x640,yolo11n.pt,193.29,5.17

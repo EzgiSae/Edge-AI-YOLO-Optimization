@@ -1,0 +1,5 @@
+Model,Dosya,Ortalama Süre (ms),FPS,Toplam Nesne Sayısı,Toplam Resim
+PyTorch (Nano),yolo11n.pt,129.85,7.7,2976,2021
+ONNX (Nano),yolo11n.onnx,150.7,6.64,2999,2021
+INT8 (Nano),yolo11n_int8.onnx,179.48,5.57,2851,2021
+NCNN (Nano),yolo11n_ncnn_model,165.53,6.04,2989,2021

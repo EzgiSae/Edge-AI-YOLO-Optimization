@@ -1,0 +1,9 @@
+Model,Çözünürlük,Ort. Güven (%),Nesne Sayısı,Güven Kaybı
+PyTorch (640p),640,83.69,5,REFERANS
+INT8 (640p),640,80.23,5,3.46
+ONNX (640p),640,78.45,5,5.23
+NCNN (640p),640,78.36,5,5.33
+ONNX (320p),320,70.16,5,-4.43
+NCNN (320p),320,69.91,5,-4.18
+INT8 (320p),320,68.05,5,-2.32
+PyTorch (320p),320,65.73,5,REFERANS

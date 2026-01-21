@@ -1,0 +1,4 @@
+Model,FPS,Araç Sayısı,Detaylar
+ONNX (Nano 320p),15.65,1875,"{'car': 1667, 'truck': 189, 'bus': 11, 'motorcycle': 8}"
+NCNN (Nano 320p),13.04,1874,"{'car': 1666, 'truck': 189, 'bus': 11, 'motorcycle': 8}"
+PyTorch (Nano 320p),11.02,1863,"{'car': 1631, 'truck': 214, 'bus': 10, 'motorcycle': 8}"

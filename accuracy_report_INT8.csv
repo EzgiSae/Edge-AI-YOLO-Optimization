@@ -1,0 +1,2 @@
+True Positive (Başarılı),False Negative (Kaçan),False Positive (Hayal),Total Objects (Referans),Precision,Recall,F1_Score
+709,326,58,976,0.924380704041721,0.6850241545893719,0.7869034406215316

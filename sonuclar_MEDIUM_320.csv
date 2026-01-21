@@ -1,0 +1,5 @@
+Model,Dosya,Ortalama Süre (ms),FPS,Toplam Nesne Sayısı,Toplam Resim
+PyTorch (Medium 320p),yolo11m.pt,196.79,5.08,2760,2021
+ONNX (Medium 320p),yolo11m_320.onnx,228.15,4.38,2782,2021
+INT8 (Medium 320p),yolo11m_320_int8.onnx,196.01,5.1,2735,2021
+NCNN (Medium 320p),yolo11m_320_ncnn_model,216.32,4.62,2775,2021
