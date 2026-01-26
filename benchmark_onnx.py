@@ -7,7 +7,7 @@ if not os.path.exists("yolo11n.onnx"):
     print("HATA: 'yolo11n.onnx' dosyası bulunamadı! Önce export_onnx.py çalıştırılmalı.")
     exit()
 
-print("ONNX Modeli yükleniyor (Bu işlem PyTorch'tan hızlıdır)...")
+print("ONNX Modeli yükleniyor...")
 
 model = YOLO("yolo11n.onnx", task="detect") 
 

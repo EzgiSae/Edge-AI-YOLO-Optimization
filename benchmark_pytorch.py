@@ -17,7 +17,6 @@ model(image_url, verbose=False)
 # Benchmark
 start_time = time.time()
 
-# Modeli çalıştır
 results = model(image_url)
 
 end_time = time.time()

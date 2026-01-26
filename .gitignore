@@ -3,13 +3,17 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Virtual Environment (Bunu yüklememeliyiz, herkes kendi kurar)
+# Virtual Environment 
 venv/
 .env
 
 # VS Code settings
 .vscode/
 
-# YOLO modelleri (Çok büyük dosyalar git'e yüklenmez)
+# YOLO modelleri 
 *.pt
 *.onnx
+
+obj_train_data/
+RENKLI_ANALIZ/
+runs/
