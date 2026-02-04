@@ -87,7 +87,7 @@ Below is the explanation of the scripts and why they exist in this project:
 Run The "Marathon" Benchmark (Stability):
 python scripts/toplu_test.py
 
-2. Visual Error Analysis 
+##Visual Error Analysis 
 We implemented a visualizer to debug *False Negatives* (Missed Objects) and *False Positives* (Hallucinations). 
  
 * **🟩 Green Box:** True Positive (Correct detection) 
@@ -95,9 +95,8 @@ We implemented a visualizer to debug *False Negatives* (Missed Objects) and *Fal
 * **🟧 Orange Box:** False Positive (Incorrect detection) 
  
 ![Visual Analysis Example](assets/visual_analysis_example.jpg) 
-*(Example output showing the model correctly detecting vehicles while missing only distant/small objects)*
 
-📄 Full Technical Report
+##📄 Full Technical Report
 For a deep dive into the methodology, confusion matrices, and detailed error analysis, please refer to the full report:
 
 👉 [ YOLOv11 Optimizasyon Raporunu İndir (PDF)](docs/YOLOv11_Optimizasyon_Raporu.pdf)
