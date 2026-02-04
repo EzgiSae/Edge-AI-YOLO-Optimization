@@ -93,7 +93,7 @@ python scripts/accuracy_analysis.py --source data/test_video.mp4
 📄 Full Technical Report
 For a deep dive into the methodology, confusion matrices, and detailed error analysis, please refer to the full report:
 
-👉 [📥 YOLOv11 Optimizasyon Raporunu İndir (PDF)](docs/YOLOv11_Optimizasyon_Raporu.pdf)
+👉 [ YOLOv11 Optimizasyon Raporunu İndir (PDF)](docs/YOLOv11_Optimizasyon_Raporu.pdf)
 
 👤 Author
 Ezgi Sarıca Computer Engineering Student
