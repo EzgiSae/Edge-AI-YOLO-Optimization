@@ -107,7 +107,7 @@ else:
         df = pd.DataFrame(sonuclar)
         df = df.sort_values(by="FPS", ascending=False)
         
-        dosya_adi = "sonuclar_FINAL_320_FILTRELI.csv"
+        dosya_adi = "sonuclar_FINAL_640_FILTRELI.csv"
         df.to_csv(dosya_adi, index=False)
         
         print("\n" + "="*50)
